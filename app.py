@@ -36,7 +36,7 @@ with tab1:
     )
     
     if st.button("Extract KPIs", type="primary"):
-        if user_input:git status
+        if user_input:
             with st.spinner("Extracting financial data..."):
                 try:
                     result = extract_financial_data(user_input)
@@ -88,3 +88,15 @@ with tab2:
                     )
                 except Exception as e:
                     st.error(f"Error: {str(e)}")
+# Footer
+st.markdown("---")
+st.markdown(
+    """
+    <div style='text-align: center; color: gray; padding: 10px;'>
+        Built by <b>Bhavna</b> | 
+        <a href='https://github.com/BHAVNA510' target='_blank'>GitHub</a> | 
+        <a href='https://www.linkedin.com/in/bhavna51020' target='_blank'>LinkedIn</a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
