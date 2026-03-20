@@ -90,15 +90,7 @@ streamlit run app.py
 ```
 
 ## 🧠 Key Concepts I Learned
-- **Prompt Engineering** — How to write precise instructions 
-  for LLMs to get consistent structured outputs
-- **Pydantic Schemas** — Defining data models to validate 
-  and structure AI responses
-- **LLM Integration** — Connecting Python applications to 
-  large language model APIs
-- **Streamlit** — Building interactive web apps in pure Python
-- **Git workflow** — Daily commits, version control best practices
-- 
+
 <img width="866" height="498" alt="_- visual selection" src="https://github.com/user-attachments/assets/cfa6f9ee-f0e1-4f17-87d5-d829c2c137c2" />
 
 ## 📊 Sample Output
