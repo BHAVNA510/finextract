@@ -98,6 +98,8 @@ streamlit run app.py
   large language model APIs
 - **Streamlit** — Building interactive web apps in pure Python
 - **Git workflow** — Daily commits, version control best practices
+- 
+<img width="866" height="498" alt="_- visual selection" src="https://github.com/user-attachments/assets/cfa6f9ee-f0e1-4f17-87d5-d829c2c137c2" />
 
 ## 📊 Sample Output
 Input text:
