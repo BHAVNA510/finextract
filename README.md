@@ -109,7 +109,7 @@ Output table:
 ## 👩‍💻 Author
 **Bhavna** — Data & AI enthusiast
 - GitHub: [@BHAVNA510](https://github.com/BHAVNA510)
-- LinkedIn: [your linkedin url]
+- LinkedIn: [www.linkedin.com/in/bhavna51020]
 - Email: bhavna51020@gmail.com
 
 ## 🗓️ Build Log
