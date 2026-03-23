@@ -1,3 +1,10 @@
+import subprocess
+import sys
+
+# Force install required packages
+subprocess.run([sys.executable, "-m", "pip", "install", "groq", "pypdf", "pydantic", "python-dotenv"], 
+               capture_output=True)
+
 import streamlit as st
 import pandas as pd
 from extractor import extract_financial_data
