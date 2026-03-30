@@ -117,3 +117,7 @@ Output table:
 |-----|-------------|
 | Day 1 | Project setup, Groq API connection, core extraction engine |
 | Day 2 | Streamlit UI, PDF support, GitHub push, documentation |
+| Day 3 | GitHub push, documentation |
+| Day 2 | Cloud deployment, GitHub push, documentation |
+
+
