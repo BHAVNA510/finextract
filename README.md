@@ -120,5 +120,6 @@ Output table:
 | Day 3 | GitHub push, documentation |
 | Day 4 | Cloud deployment, GitHub push, documentation |
 | Day 5 | GitHub changes |
-| Day 5 | Extraction engine |
+| Day 6 | Extraction engine |
+| Day 7 | GitHub changes |
 
