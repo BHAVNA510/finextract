@@ -109,7 +109,6 @@ Output table:
 | TCS | 29.1 | 4.1 | null | 2024 | 4.6 | BFSI | USD |
 
 ## 👩‍💻 Author
-
 **Bhavna** — Data & AI enthusiast
 - GitHub: [@BHAVNA510](https://github.com/BHAVNA510)
 - LinkedIn: [www.linkedin.com/in/bhavna51020]
