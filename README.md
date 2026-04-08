@@ -116,7 +116,6 @@ Output table:
 - Email: bhavna51020@gmail.com
 
 ## 🗓️ Build Log
-
 | Day | What I built |
 |-----|-------------|
 | Day 1 | Project setup, Groq API connection, core extraction engine |
