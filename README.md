@@ -103,7 +103,6 @@ BFSI segment led with 31% of total revenue.
 ```
 
 Output table:
-
 | company | revenue | growth % | quarter | year | net_income | segment | currency |
 |---------|---------|----------|---------|------|------------|---------|----------|
 | TCS | 29.1 | 4.1 | null | 2024 | 4.6 | BFSI | USD |
