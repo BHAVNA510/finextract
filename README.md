@@ -94,6 +94,7 @@ streamlit run app.py
 <img width="866" height="498" alt="_- visual selection" src="https://github.com/user-attachments/assets/cfa6f9ee-f0e1-4f17-87d5-d829c2c137c2" />
 
 ## 📊 Sample Output
+
 Input text:
 ```
 TCS reported revenue of $29.1B for FY2024, 
@@ -102,17 +103,20 @@ BFSI segment led with 31% of total revenue.
 ```
 
 Output table:
+
 | company | revenue | growth % | quarter | year | net_income | segment | currency |
 |---------|---------|----------|---------|------|------------|---------|----------|
 | TCS | 29.1 | 4.1 | null | 2024 | 4.6 | BFSI | USD |
 
 ## 👩‍💻 Author
+
 **Bhavna** — Data & AI enthusiast
 - GitHub: [@BHAVNA510](https://github.com/BHAVNA510)
 - LinkedIn: [www.linkedin.com/in/bhavna51020]
 - Email: bhavna51020@gmail.com
 
 ## 🗓️ Build Log
+
 | Day | What I built |
 |-----|-------------|
 | Day 1 | Project setup, Groq API connection, core extraction engine |
