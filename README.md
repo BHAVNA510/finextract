@@ -1,4 +1,5 @@
 # FinExtract 💰
+
 > An AI-powered financial KPI extractor that converts unstructured 
 text into structured data using Groq LLaMA3 + Streamlit
 
