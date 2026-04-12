@@ -107,6 +107,7 @@ Output table:
 | TCS | 29.1 | 4.1 | null | 2024 | 4.6 | BFSI | USD |
 
 ## 👩‍💻 Author
+
 **Bhavna** — Data & AI enthusiast
 - GitHub: [@BHAVNA510](https://github.com/BHAVNA510)
 - LinkedIn: [www.linkedin.com/in/bhavna51020]
@@ -117,3 +118,9 @@ Output table:
 |-----|-------------|
 | Day 1 | Project setup, Groq API connection, core extraction engine |
 | Day 2 | Streamlit UI, PDF support, GitHub push, documentation |
+| Day 3 | GitHub push, documentation |
+| Day 4 | Cloud deployment, GitHub push, documentation |
+| Day 5 | GitHub changes |
+| Day 6 | Extraction engine |
+| Day 7 | GitHub changes |
+
