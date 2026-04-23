@@ -48,7 +48,6 @@ User Input (Text/PDF)
         ↓
    Structured Output (Table + CSV)
 ```
-
 ## 📁 File Structure
 ```
 finextract/
