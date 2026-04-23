@@ -8,7 +8,6 @@ text into structured data using Groq LLaMA3 + Streamlit.
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ## 🔗 Live Demo
-
 Coming soon — deploying on Streamlit Cloud
 
 ## 📌 What problem does it solve ?
