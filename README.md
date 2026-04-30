@@ -14,7 +14,7 @@ Coming soon — deploying on Streamlit Cloud
 ## 📌 What problem does it solve ?
 Financial analysts waste hours manually reading earnings reports 
 and news articles to extract key numbers like revenue, growth %, 
-and net income. FinExtract automates this entirely using AI —/
+and net income. FinExtract automates this entirely using AI —
 paste any financial text and get a clean structured table in seconds.
 
 ## ✨ Features
