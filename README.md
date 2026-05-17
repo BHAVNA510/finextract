@@ -7,7 +7,7 @@ text into structured data using Groq LLaMA3 + Streamlit.
 ![Groq](https://img.shields.io/badge/Groq-LLaMA3-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-## 🔗 Live Demo
+## 🔗 Live Dem o
 
 Coming soon — deploying on Streamlit Cloud
 
