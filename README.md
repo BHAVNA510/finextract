@@ -1,4 +1,4 @@
-8# FinExtract 💰
+# FinExtract 💰
 > An AI-powered financial KPI extractor that converts unstructured 
 text into structured data using Groq LLaMA3 + Streamlit.
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
