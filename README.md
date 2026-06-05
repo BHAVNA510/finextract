@@ -16,7 +16,7 @@ and news articles to extract key numbers like revenue, growth %,
 and net income. FinExtract automates this entirely using AI —
 paste any financial text and get a clean structured table in seconds.
 
-## ✨ Feature
+## ✨ Features
 - Paste any financial news article or earnings report
 - AI automatically extracts: Company, Revenue, Growth %, 
   Quarter, Year, Net Income, Top Segment, Currency
